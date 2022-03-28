@@ -1,4 +1,4 @@
-# Jos-Victor---Atividade-2---IAAD
+# José Victor Atividade 2 Introdução ao Armazenamento e Análise de Dados - IAAD
 ## Modelo de Dados Relacional; Restrições de Integridade; Introdução à SQL Atividade prática utilizando o Banco de Dados Relacional MySQL
 
 
