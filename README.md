@@ -11,7 +11,7 @@
 Modelo de Dados Relacional; Restrições de Integridade; Introdução à SQL
 Atividade prática utilizando o Banco de Dados Relacional MySQL
 Estudante (nome completo): José Victor Nascimento da Cruz
-⏰ Prazo: 27/03/2022 (>15 dias)
+
 
 QUESTÃO 1 (5,0 PONTOS)
 Considere as seguintes restrições de integridade: 
